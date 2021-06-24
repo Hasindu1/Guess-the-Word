@@ -40,97 +40,97 @@ Our App is named as the “Guess The Word”. Our App consist of two user roles.
  ### Sign Up
  
  <p align="left">
-  <img src="../main/ui-screen-shots/signup.PNG"/>
+  <img src="../main/ui-screen-shots/signup.PNG" width="380"/>
  </p>
  
  ### User Registration
  
  <p align="left">
-  <img src="../main/ui-screen-shots/register.PNG"/>
+  <img src="../main/ui-screen-shots/register.PNG" width="380"/>
  </p>
  
  ### User Login
  
  <p>
-  <img src="../main/ui-screen-shots/login.PNG"/>
+  <img src="../main/ui-screen-shots/login.PNG" width="380"/>
  </p>
  
  ### Start Quiz
  
  <p align="left">
-  <img src="../main/ui-screen-shots/start-quiz.PNG"/>
+  <img src="../main/ui-screen-shots/start-quiz.PNG" width="380"/>
  </p>
  
  ### Quiz
   
  <p align="left">
-  <img src="../main/ui-screen-shots/quiz-screen.PNG"/>
+  <img src="../main/ui-screen-shots/quiz-screen.PNG" width="380"/>
  </p>
  
  ### Final Score
    
  <p align="left">
-  <img src="../main/ui-screen-shots/final-score.PNG"/>
+  <img src="../main/ui-screen-shots/final-score.PNG" width="380"/>
  </p>
  
  ### Sign Out Drawer
   
  <p align="left">
-  <img src="../main/ui-screen-shots/signout-drawer.PNG"/>
+  <img src="../main/ui-screen-shots/signout-drawer.PNG" width="380"/>
  </p>
  
  ### Quiz List
  
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-quiz-list.PNG"/>
+  <img src="../main/ui-screen-shots/admin-quiz-list.PNG" width="380"/>
  </p>
  
  ### Case-Intensive Full Text Search 
  
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-full-text-search.PNG"/>
+  <img src="../main/ui-screen-shots/admin-full-text-search.PNG" width="380"/>
  </p>
  
  ### Add Quiz
  
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-add-quiz.PNG"/>
+  <img src="../main/ui-screen-shots/admin-add-quiz.PNG" width="380"/>
  </p>
  
  ### Add Quiz Validation
   
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-quiz-add-validation-1.PNG"/>
+  <img src="../main/ui-screen-shots/admin-quiz-add-validation-1.PNG" width="380"/>
  </p>
  
  ### Update Quiz
  
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-update-quiz.PNG"/>
+  <img src="../main/ui-screen-shots/admin-update-quiz.PNG" width="380"/>
  </p>
  
  ### Normal Deletion
   
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-normal-deletion.PNG"/>
+  <img src="../main/ui-screen-shots/admin-normal-deletion.PNG" width="380"/>
  </p>
  
  ### Quick Deletion
  
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-quick-deletion.PNG"/>
+  <img src="../main/ui-screen-shots/admin-quick-deletion.PNG" width="380"/>
  </p>
  
  ### First Time Quick Deletion Alert
  
  <p align="left">
-  <img src="../main/ui-screen-shots/first-time-quick-deletion-alert.PNG"/>
+  <img src="../main/ui-screen-shots/first-time-quick-deletion-alert.PNG" width="380"/>
  </p>
  
  ### Delete All 
  
  <p align="left">
-  <img src="../main/ui-screen-shots/admin-quiz-delete-all.PNG"/>
+  <img src="../main/ui-screen-shots/admin-quiz-delete-all.PNG" width="380"/>
  </p>
  
 
