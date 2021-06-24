@@ -89,7 +89,24 @@ Our App is named as the “Guess The Word”. Our App consist of two user roles.
 
 
 
+ ## 👨🏼‍💻 Contributors
+ 
+* Hasindu Dahanayake
+* Rahul Fernando
+* Dananjaya Perera
+* Pasindu Hewagamage
 
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Hasindu1-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Hasindu1)
+
+If you liked the repo then please support it by giving it a star ⭐!
+ 
+ 
+ ## License
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../main/LICENSE)
+
+
+Copyright (c) 2021-present,Hasindu Dahanayake,Rahul Fernando,Dananjaya Perera,Pasindu Hewagamage
 
 
 
