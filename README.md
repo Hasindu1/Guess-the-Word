@@ -37,56 +37,102 @@ Our App is named as the “Guess The Word”. Our App consist of two user roles.
 
 
  ## Some user interfaces of the system
+ ### Sign Up
  
- <p align="middle">
+ <p align="left">
   <img src="../main/ui-screen-shots/signup.PNG"/>
  </p>
- <p align="middle">
-  <img src="../main/ui-screen-shotss/register.PNG"/>
+ 
+ ### User Registration
+ 
+ <p align="left">
+  <img src="../main/ui-screen-shots/register.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### User Login
+ 
+ <p>
   <img src="../main/ui-screen-shots/login.PNG"/>
  </p>
-  <p align="middle">
+ 
+ ### Start Quiz
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/start-quiz.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### Quiz
+  
+ <p align="left">
   <img src="../main/ui-screen-shots/quiz-screen.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### Final Score
+   
+ <p align="left">
   <img src="../main/ui-screen-shots/final-score.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### Sign Out Drawer
+  
+ <p align="left">
   <img src="../main/ui-screen-shots/signout-drawer.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### Quiz List
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-quiz-list.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### Case-Intensive Full Text Search 
+ 
+ <p align="left">
+  <img src="../main/ui-screen-shots/admin-full-text-search.PNG"/>
+ </p>
+ 
+ ### Add Quiz
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-add-quiz.PNG"/>
  </p>
- <p align="middle">
+ 
+ ### Add Quiz Validation
+  
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-quiz-add-validation-1.PNG"/>
  </p>
-   <p align="middle">
+ 
+ ### Update Quiz
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-update-quiz.PNG"/>
  </p>
-  <p align="middle">
+ 
+ ### Normal Deletion
+  
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-normal-deletion.PNG"/>
  </p>
-   <p align="middle">
+ 
+ ### Quick Deletion
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-quick-deletion.PNG"/>
  </p>
-   <p align="middle">
+ 
+ ### First Time Quick Deletion Alert
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/first-time-quick-deletion-alert.PNG"/>
  </p>
-   <p align="middle">
+ 
+ ### Delete All 
+ 
+ <p align="left">
   <img src="../main/ui-screen-shots/admin-quiz-delete-all.PNG"/>
  </p>
-   <p align="middle">
-  <img src="../main/ui-screen-shots/admin-quiz-delete-all.PNG"/>
- </p>
-
+ 
 
 
  ## 👨🏼‍💻 Contributors
@@ -106,7 +152,7 @@ If you liked the repo then please support it by giving it a star ⭐!
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../main/LICENSE)
 
 
-Copyright (c) 2021-present,Hasindu Dahanayake,Rahul Fernando,Dananjaya Perera,Pasindu Hewagamage
+Copyright (c) 2021-present, Hasindu Dahanayake, Rahul Fernando, Dananjaya Perera, Pasindu Hewagamage
 
 
 
