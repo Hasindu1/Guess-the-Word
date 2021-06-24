@@ -14,8 +14,8 @@
 
 ### Tools and Databases
 ![Firestore](https://img.shields.io/badge/Database-Firestore-blue) 
-![Android Studio](https://img.shields.io/badge/Technology-Android Studio-blue) 
-![Visual Studio Code](https://img.shields.io/badge/Technology-Visual Studio Code-blue) 
+![AndroidStudio](https://img.shields.io/badge/Technology-AndroidStudio-blue) 
+![VisualStudioCode](https://img.shields.io/badge/Technology-VisualStudioCode-blue) 
 
 
 ## Introduction
